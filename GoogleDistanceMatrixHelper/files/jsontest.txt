@@ -1,0 +1,48 @@
+{
+   "destination_addresses" : [
+      "4 Temple Street, Cape Town 7766, South Africa",
+      "Helen Suzman Boulevard, Cape Town 8051, South Africa",
+      "5-11 Draper Street, Cape Town 7708, South Africa"
+   ],
+   "origin_addresses" : [ "20 Cloete Street, Cape Town 7441, South Africa" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "12,7 km",
+                  "value" : 12704
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1091
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "17,2 km",
+                  "value" : 17245
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1191
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "17,4 km",
+                  "value" : 17422
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1183
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

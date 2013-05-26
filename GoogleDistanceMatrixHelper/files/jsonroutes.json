@@ -1,0 +1,1328 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -33.870010,
+               "lng" : 18.554810
+            },
+            "southwest" : {
+               "lat" : -33.970010,
+               "lng" : 18.532870
+            }
+         },
+         "copyrights" : "Map data ©2013 AfriGIS (Pty) Ltd, Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "15,0 km",
+                  "value" : 15023
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1541
+               },
+               "end_address" : "4 Temple Street, Cape Town 7766, South Africa",
+               "end_location" : {
+                  "lat" : -33.970010,
+                  "lng" : 18.53380
+               },
+               "start_address" : "20 Cloete Street, Cape Town 7441, South Africa",
+               "start_location" : {
+                  "lat" : -33.870010,
+                  "lng" : 18.537520
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0,3 km",
+                        "value" : 299
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : -33.87146000000001,
+                        "lng" : 18.535640
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eCloete St\u003c/b\u003e toward \u003cb\u003eJanssen St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "pfvmEorcpBpBy@NALJh@`Cv@tCl@~B@N"
+                     },
+                     "start_location" : {
+                        "lat" : -33.870010,
+                        "lng" : 18.537520
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,2 km",
+                        "value" : 167
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : -33.87010,
+                        "lng" : 18.534890
+                     },
+                     "html_instructions" : "\u003cb\u003eCloete St\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eVreem St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "rovmEwfcpBEHiGjC"
+                     },
+                     "start_location" : {
+                        "lat" : -33.87146000000001,
+                        "lng" : 18.535640
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : -33.870390,
+                        "lng" : 18.53410
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJacob St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "bgvmEabcpBx@|C"
+                     },
+                     "start_location" : {
+                        "lat" : -33.87010,
+                        "lng" : 18.534890
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,2 km",
+                        "value" : 185
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : -33.871910,
+                        "lng" : 18.534910
+                     },
+                     "html_instructions" : "Take the 1st \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVryburger Ave\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "|hvmEc}bpBhCiApB{@b@SNG"
+                     },
+                     "start_location" : {
+                        "lat" : -33.870390,
+                        "lng" : 18.53410
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1,8 km",
+                        "value" : 1766
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 190
+                     },
+                     "end_location" : {
+                        "lat" : -33.88200000000001,
+                        "lng" : 18.547630
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eEdgemead Dr\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eGo through 1 roundabout\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "lrvmEebcpBTI~@_@fAa@|C{ALGd@UnBw@hA_@H@\\OpFaCvAaAlEoCBC`BwA@CfBaB@AbCwC@CRg@n@eB@Cp@oE@OL}BPyC@K@OH{BF{@H}AJy@AYNy@ZqAACAC?CAC@G@EBCBCDCB?D?b@aANMJUP_@JSJQJMJOLMDGVWb@]fAs@"
+                     },
+                     "start_location" : {
+                        "lat" : -33.871910,
+                        "lng" : 18.534910
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,7 km",
+                        "value" : 731
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : -33.887720,
+                        "lng" : 18.551450
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMontague Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "nqxmEuqepB^Sb@Wh@[|BiAFErAu@j@[rBkA?ATKjBgA|Ay@XOb@WrAu@xBmA~A{@VQFKDCFGFGDIFQ"
+                     },
+                     "start_location" : {
+                        "lat" : -33.88200000000001,
+                        "lng" : 18.547630
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,1 km",
+                        "value" : 146
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : -33.88742000000001,
+                        "lng" : 18.552940
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWingfield Pl\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "fuymEqifpB@O?G?IAIAKEM@IYw@K_@IUEQCM?W?M@S@Q"
+                     },
+                     "start_location" : {
+                        "lat" : -33.887720,
+                        "lng" : 18.551450
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,4 km",
+                        "value" : 386
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 124
+                     },
+                     "end_location" : {
+                        "lat" : -33.890840,
+                        "lng" : 18.553590
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMonte Vista Blvd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "jsymE{rfpB^@R?`@EjCSTCVAz@Id@GtASXGHAXIp@KVE`@INCh@I"
+                     },
+                     "start_location" : {
+                        "lat" : -33.88742000000001,
+                        "lng" : 18.552940
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,6 km",
+                        "value" : 562
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : -33.89579000000001,
+                        "lng" : 18.554810
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVasco Blvd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "vhzmE}vfpBVE@?tAU~Do@tEu@JAj@MNEnAWxEm@lAOHALC"
+                     },
+                     "start_location" : {
+                        "lat" : -33.890840,
+                        "lng" : 18.553590
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2,0 km",
+                        "value" : 2001
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 178
+                     },
+                     "end_location" : {
+                        "lat" : -33.899380,
+                        "lng" : 18.533560
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFrans Conradie Dr/M25\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "tg{mEq~fpB@TZ|C\\rD`CfWh@tFbAfK@P^vDlBlSfBrQhD~^"
+                     },
+                     "start_location" : {
+                        "lat" : -33.89579000000001,
+                        "lng" : 18.554810
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "8,0 km",
+                        "value" : 7953
+                     },
+                     "duration" : {
+                        "text" : "11 mins",
+                        "value" : 658
+                     },
+                     "end_location" : {
+                        "lat" : -33.968740,
+                        "lng" : 18.538570
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVanguard Dr\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "b~{mEwybpBtCAZAxAE@?|AKhAQ`AUlAa@x@]v@c@h@_@bPsKpBsAJGDEROXSp@e@jFqD^WDEhAw@p@e@r@_@x@_@LG`@OHC|Aa@dBYlLeBvCc@ZE`Da@p@ObJoB\\Ib@KlFkAdAYLEHEt@]nBcAnAg@|Aa@~AYd@GVETEl@K~B_@dIgAfBOvAOhDB|DSRC\\At@GjACPA^?l@?Z?\\?nHLlCJrUv@l@BD?dDLZ?hP`@vEVZ?h@@zDPtBDrABX?X@lBBl@@`MHF?F?dD@Z@la@XL@H?H?V?~ABbELtBLfHl@F@b@Db@Dd@DH@TBXBTBTBvALtQ|Bb@Hr@NNBTBpB`@|Dz@|@RXFpBd@z@PpAZv@NtBd@bFhARDZFnAX~Bf@vDx@dATrBb@XF"
+                     },
+                     "start_location" : {
+                        "lat" : -33.899380,
+                        "lng" : 18.533560
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,5 km",
+                        "value" : 473
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 88
+                     },
+                     "end_location" : {
+                        "lat" : -33.96821000000001,
+                        "lng" : 18.533490
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKlipfontein Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "roinEaycpBALAXMnCIzBC|AO|CYjG_@zD"
+                     },
+                     "start_location" : {
+                        "lat" : -33.968740,
+                        "lng" : 18.538570
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "15 m",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : -33.968310,
+                        "lng" : 18.533380
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePetunia Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "hlinEiybpBRT"
+                     },
+                     "start_location" : {
+                        "lat" : -33.96821000000001,
+                        "lng" : 18.533490
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,2 km",
+                        "value" : 170
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : -33.969790,
+                        "lng" : 18.532870
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eHazel Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "|linEsxbpBVFTFd@Ln@NlAXp@Pb@J"
+                     },
+                     "start_location" : {
+                        "lat" : -33.968310,
+                        "lng" : 18.533380
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "89 m",
+                        "value" : 89
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : -33.970010,
+                        "lng" : 18.53380
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTemple St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "dvinEmubpBN{@Hs@Jq@DW"
+                     },
+                     "start_location" : {
+                        "lat" : -33.969790,
+                        "lng" : 18.532870
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "pfvmEorcpBpBy@NALJh@`CdBtG@NEHiGjCx@|CzFeChCeAfAa@|C{Ar@]xDwAH@\\OpFaCvAaApEsClE_EdC{CbAmCr@sENmCReDJkCPyCJy@AYj@kCCGAGBMFGHCD?b@aANMJU\\s@V_@v@}@jBqAbAk@fDeBzA{@tDuBfGiDdIqE\\_@L[@WASGY@IYw@Uu@I_@?e@Be@r@@zE_@`BQnB[b@KhAQrB]lN{BvCm@~HcA|Dnb@nCfYtE`f@hD~^tCAtBG~AKjCg@fC_A`BcAtSgN~@q@bIuFzB}AlB_An@WfBe@fUiD`Da@p@O`KyBpGwArA_@~@c@nBcAnAg@|Aa@~AY|@MbAQdMgB~D_@hDB|DSp@E`CKzBAlIL`ZbAtFPhP`@vEVdA@zDPtBDlBBvRPpEBnb@ZvBBbELtBLnHn@fAJ~ANj@FvALtQ|BvAXd@FfKxB`U`FlMpClCj@Cf@WjGC|AO|CYjG_@zDRTVFz@T|Bh@tA\\XoBPiA"
+         },
+         "summary" : "Vanguard Dr",
+         "warnings" : [],
+         "waypoint_order" : []
+      },
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -33.870010,
+               "lng" : 18.554810
+            },
+            "southwest" : {
+               "lat" : -33.970010,
+               "lng" : 18.508070
+            }
+         },
+         "copyrights" : "Map data ©2013 AfriGIS (Pty) Ltd, Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "18,5 km",
+                  "value" : 18451
+               },
+               "duration" : {
+                  "text" : "28 mins",
+                  "value" : 1676
+               },
+               "end_address" : "4 Temple Street, Cape Town 7766, South Africa",
+               "end_location" : {
+                  "lat" : -33.970010,
+                  "lng" : 18.53380
+               },
+               "start_address" : "20 Cloete Street, Cape Town 7441, South Africa",
+               "start_location" : {
+                  "lat" : -33.870010,
+                  "lng" : 18.537520
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0,3 km",
+                        "value" : 299
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : -33.87146000000001,
+                        "lng" : 18.535640
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eCloete St\u003c/b\u003e toward \u003cb\u003eJanssen St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "pfvmEorcpBpBy@NALJh@`Cv@tCl@~B@N"
+                     },
+                     "start_location" : {
+                        "lat" : -33.870010,
+                        "lng" : 18.537520
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,2 km",
+                        "value" : 167
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : -33.87010,
+                        "lng" : 18.534890
+                     },
+                     "html_instructions" : "\u003cb\u003eCloete St\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eVreem St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "rovmEwfcpBEHiGjC"
+                     },
+                     "start_location" : {
+                        "lat" : -33.87146000000001,
+                        "lng" : 18.535640
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : -33.870390,
+                        "lng" : 18.53410
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJacob St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "bgvmEabcpBx@|C"
+                     },
+                     "start_location" : {
+                        "lat" : -33.87010,
+                        "lng" : 18.534890
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,2 km",
+                        "value" : 185
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : -33.871910,
+                        "lng" : 18.534910
+                     },
+                     "html_instructions" : "Take the 1st \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVryburger Ave\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "|hvmEc}bpBhCiApB{@b@SNG"
+                     },
+                     "start_location" : {
+                        "lat" : -33.870390,
+                        "lng" : 18.53410
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1,8 km",
+                        "value" : 1766
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 190
+                     },
+                     "end_location" : {
+                        "lat" : -33.88200000000001,
+                        "lng" : 18.547630
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eEdgemead Dr\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eGo through 1 roundabout\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "lrvmEebcpBTI~@_@fAa@|C{ALGd@UnBw@hA_@H@\\OpFaCvAaAlEoCBC`BwA@CfBaB@AbCwC@CRg@n@eB@Cp@oE@OL}BPyC@K@OH{BF{@H}AJy@AYNy@ZqAACAC?CAC@G@EBCBCDCB?D?b@aANMJUP_@JSJQJMJOLMDGVWb@]fAs@"
+                     },
+                     "start_location" : {
+                        "lat" : -33.871910,
+                        "lng" : 18.534910
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,7 km",
+                        "value" : 731
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : -33.887720,
+                        "lng" : 18.551450
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMontague Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "nqxmEuqepB^Sb@Wh@[|BiAFErAu@j@[rBkA?ATKjBgA|Ay@XOb@WrAu@xBmA~A{@VQFKDCFGFGDIFQ"
+                     },
+                     "start_location" : {
+                        "lat" : -33.88200000000001,
+                        "lng" : 18.547630
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,1 km",
+                        "value" : 146
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : -33.88742000000001,
+                        "lng" : 18.552940
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWingfield Pl\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "fuymEqifpB@O?G?IAIAKEM@IYw@K_@IUEQCM?W?M@S@Q"
+                     },
+                     "start_location" : {
+                        "lat" : -33.887720,
+                        "lng" : 18.551450
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,4 km",
+                        "value" : 386
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 124
+                     },
+                     "end_location" : {
+                        "lat" : -33.890840,
+                        "lng" : 18.553590
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMonte Vista Blvd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "jsymE{rfpB^@R?`@EjCSTCVAz@Id@GtASXGHAXIp@KVE`@INCh@I"
+                     },
+                     "start_location" : {
+                        "lat" : -33.88742000000001,
+                        "lng" : 18.552940
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,6 km",
+                        "value" : 562
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : -33.89579000000001,
+                        "lng" : 18.554810
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVasco Blvd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "vhzmE}vfpBVE@?tAU~Do@tEu@JAj@MNEnAWxEm@lAOHALC"
+                     },
+                     "start_location" : {
+                        "lat" : -33.890840,
+                        "lng" : 18.553590
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2,0 km",
+                        "value" : 2001
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 178
+                     },
+                     "end_location" : {
+                        "lat" : -33.899380,
+                        "lng" : 18.533560
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFrans Conradie Dr/M25\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "tg{mEq~fpB@TZ|C\\rD`CfWh@tFbAfK@P^vDlBlSfBrQhD~^"
+                     },
+                     "start_location" : {
+                        "lat" : -33.89579000000001,
+                        "lng" : 18.554810
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3,2 km",
+                        "value" : 3238
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 234
+                     },
+                     "end_location" : {
+                        "lat" : -33.92675000000001,
+                        "lng" : 18.543830
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVanguard Dr\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "b~{mEwybpBtCAZAxAE@?|AKhAQ`AUlAa@x@]v@c@h@_@bPsKpBsAJGDEROXSp@e@jFqD^WDEhAw@p@e@r@_@x@_@LG`@OHC|Aa@dBYlLeBvCc@ZE`Da@p@ObJoB\\Ib@KlFkAdAYLEHEt@]nBcAnAg@|Aa@~AYd@GVETEl@K~B_@dIgAfBOvAOhDB|DSRC\\A"
+                     },
+                     "start_location" : {
+                        "lat" : -33.899380,
+                        "lng" : 18.533560
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2,0 km",
+                        "value" : 1955
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 178
+                     },
+                     "end_location" : {
+                        "lat" : -33.930070,
+                        "lng" : 18.523050
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eViking Wy\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "dianE}ydpB@\\FxBBdAB`@Bp@P`DB~@ZjDLzA@RJ`A@JXxCjC`WLpA`CpUPvBFLRtBf@fFp@jGBZDd@h@dFTbCXpDNnD"
+                     },
+                     "start_location" : {
+                        "lat" : -33.92675000000001,
+                        "lng" : 18.543830
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,3 km",
+                        "value" : 300
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : -33.932310,
+                        "lng" : 18.522390
+                     },
+                     "html_instructions" : "Take the \u003cb\u003eJan Smuts Drive/M17\u003c/b\u003e ramp to \u003cb\u003eAthlone/N2/Airport/11\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "|}anEax`pBHh@J~@P^PNDDZHR?XA~AOjBQhBA"
+                     },
+                     "start_location" : {
+                        "lat" : -33.930070,
+                        "lng" : 18.523050
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3,9 km",
+                        "value" : 3873
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 214
+                     },
+                     "end_location" : {
+                        "lat" : -33.961210,
+                        "lng" : 18.508070
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eJan Smuts Dr/M17\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "|kbnE}s`pBn@EfAItAC~DK~@?d@HdFIH?tA?tBHvBXjCv@fBx@pAz@fA~@n@n@`AnAX`@lClEbBnC`QxX`@`A?Dx@`BFTHRPv@NbADXVvFJnBDH@@@B@FXjATv@@B\\l@T\\VVh@b@l@b@p@Vl@Nx@L`ADhAB`ABnDFhADZ@^@F?R@L?b@BfA@tBDzELjSd@pB@b@A\\Af@CxJy@\\C^Al@@`@@^Df@Hb@Jf@LvFdB"
+                     },
+                     "start_location" : {
+                        "lat" : -33.932310,
+                        "lng" : 18.522390
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2,5 km",
+                        "value" : 2472
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 195
+                     },
+                     "end_location" : {
+                        "lat" : -33.968080,
+                        "lng" : 18.533550
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKlipfontein Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "p`hnEmz}oBfCaO|@uEnBeKn@iDlAyGVsA|@{EN}@|@{EjCuNFYdGi\\FYtBaLFWDS`@iCz@gGV_BTwAZyBXoBJ}@JqADU"
+                     },
+                     "start_location" : {
+                        "lat" : -33.961210,
+                        "lng" : 18.508070
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "31 m",
+                        "value" : 31
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : -33.968310,
+                        "lng" : 18.533380
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePetunia Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "nkinEuybpBXJRT"
+                     },
+                     "start_location" : {
+                        "lat" : -33.968080,
+                        "lng" : 18.533550
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,2 km",
+                        "value" : 170
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : -33.969790,
+                        "lng" : 18.532870
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eHazel Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "|linEsxbpBVFTFd@Ln@NlAXp@Pb@J"
+                     },
+                     "start_location" : {
+                        "lat" : -33.968310,
+                        "lng" : 18.533380
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "89 m",
+                        "value" : 89
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : -33.970010,
+                        "lng" : 18.53380
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTemple St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "dvinEmubpBN{@Hs@Jq@DW"
+                     },
+                     "start_location" : {
+                        "lat" : -33.969790,
+                        "lng" : 18.532870
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : [
+                  {
+                     "location" : {
+                        "lat" : -33.93471260,
+                        "lng" : 18.52252530
+                     },
+                     "step_index" : 13,
+                     "step_interpolation" : 0.06919949472028078
+                  }
+               ]
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "pfvmEorcpBpBy@NALJh@`CdBtG@NEHiGjCx@|CzFeChCeAfAa@|C{Ar@]xDwAH@\\OpFaCvAaApEsClE_EdC{CbAmCr@sENmCReDJkCPyCJy@AYj@kCCGAGBMFGHCD?b@aANMJU\\s@V_@v@}@jBqAbAk@fDeBzA{@tDuBfGiDdIqE\\_@L[@WASGY@IYw@Uu@I_@?e@Be@r@@zE_@`BQnB[b@KhAQrB]lN{BvCm@~HcA|Dnb@nCfYtE`f@hD~^tCAtBG~AKjCg@fC_A`BcAtSgN~@q@bIuFzB}AlB_An@WfBe@fUiD`Da@p@O`KyBpGwArA_@~@c@nBcAnAg@|Aa@~AY|@MbAQdMgB~D_@hDB|DSp@EHvCFfBTrEB~@ZjDNnBrDh^nCbXPvBFLz@|It@fHn@jGn@tHNnDHh@J~@P^VTZHR?xBQjBQhBAvBOtGO~@?d@HnFItA?tBHvBXjCv@fBx@pAz@vBnBzApBpF|I`QxX`@`Ax@fBPh@`@zBDXVvFJnBDHBDZrAVz@r@jA`Az@l@b@p@VfB\\jCHvIRfO\\jSd@pB@`AC`L}@|@EnABfANjAXvFdBfCaOlD{Q|BcMbDiQ`Lsm@|ByLf@}CdCyPd@mDPgBXJRTl@NtEhAb@JN{@TeBDW"
+         },
+         "summary" : "Jan Smuts Dr",
+         "warnings" : [],
+         "waypoint_order" : []
+      },
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -33.870010,
+               "lng" : 18.567650
+            },
+            "southwest" : {
+               "lat" : -33.971180,
+               "lng" : 18.532870
+            }
+         },
+         "copyrights" : "Map data ©2013 AfriGIS (Pty) Ltd, Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "16,9 km",
+                  "value" : 16944
+               },
+               "duration" : {
+                  "text" : "31 mins",
+                  "value" : 1863
+               },
+               "end_address" : "4 Temple Street, Cape Town 7766, South Africa",
+               "end_location" : {
+                  "lat" : -33.970010,
+                  "lng" : 18.53380
+               },
+               "start_address" : "20 Cloete Street, Cape Town 7441, South Africa",
+               "start_location" : {
+                  "lat" : -33.870010,
+                  "lng" : 18.537520
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0,3 km",
+                        "value" : 299
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : -33.87146000000001,
+                        "lng" : 18.535640
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eCloete St\u003c/b\u003e toward \u003cb\u003eJanssen St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "pfvmEorcpBpBy@NALJh@`Cv@tCl@~B@N"
+                     },
+                     "start_location" : {
+                        "lat" : -33.870010,
+                        "lng" : 18.537520
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,2 km",
+                        "value" : 167
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : -33.87010,
+                        "lng" : 18.534890
+                     },
+                     "html_instructions" : "\u003cb\u003eCloete St\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eVreem St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "rovmEwfcpBEHiGjC"
+                     },
+                     "start_location" : {
+                        "lat" : -33.87146000000001,
+                        "lng" : 18.535640
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : -33.870390,
+                        "lng" : 18.53410
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJacob St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "bgvmEabcpBx@|C"
+                     },
+                     "start_location" : {
+                        "lat" : -33.87010,
+                        "lng" : 18.534890
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,2 km",
+                        "value" : 185
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : -33.871910,
+                        "lng" : 18.534910
+                     },
+                     "html_instructions" : "Take the 1st \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVryburger Ave\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "|hvmEc}bpBhCiApB{@b@SNG"
+                     },
+                     "start_location" : {
+                        "lat" : -33.870390,
+                        "lng" : 18.53410
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1,8 km",
+                        "value" : 1766
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 190
+                     },
+                     "end_location" : {
+                        "lat" : -33.88200000000001,
+                        "lng" : 18.547630
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eEdgemead Dr\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eGo through 1 roundabout\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "lrvmEebcpBTI~@_@fAa@|C{ALGd@UnBw@hA_@H@\\OpFaCvAaAlEoCBC`BwA@CfBaB@AbCwC@CRg@n@eB@Cp@oE@OL}BPyC@K@OH{BF{@H}AJy@AYNy@ZqAACAC?CAC@G@EBCBCDCB?D?b@aANMJUP_@JSJQJMJOLMDGVWb@]fAs@"
+                     },
+                     "start_location" : {
+                        "lat" : -33.871910,
+                        "lng" : 18.534910
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,7 km",
+                        "value" : 731
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : -33.887720,
+                        "lng" : 18.551450
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMontague Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "nqxmEuqepB^Sb@Wh@[|BiAFErAu@j@[rBkA?ATKjBgA|Ay@XOb@WrAu@xBmA~A{@VQFKDCFGFGDIFQ"
+                     },
+                     "start_location" : {
+                        "lat" : -33.88200000000001,
+                        "lng" : 18.547630
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,1 km",
+                        "value" : 146
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : -33.88742000000001,
+                        "lng" : 18.552940
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWingfield Pl\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "fuymEqifpB@O?G?IAIAKEM@IYw@K_@IUEQCM?W?M@S@Q"
+                     },
+                     "start_location" : {
+                        "lat" : -33.887720,
+                        "lng" : 18.551450
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,4 km",
+                        "value" : 386
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 124
+                     },
+                     "end_location" : {
+                        "lat" : -33.890840,
+                        "lng" : 18.553590
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMonte Vista Blvd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "jsymE{rfpB^@R?`@EjCSTCVAz@Id@GtASXGHAXIp@KVE`@INCh@I"
+                     },
+                     "start_location" : {
+                        "lat" : -33.88742000000001,
+                        "lng" : 18.552940
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2,2 km",
+                        "value" : 2246
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 233
+                     },
+                     "end_location" : {
+                        "lat" : -33.910630,
+                        "lng" : 18.558450
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVasco Blvd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "vhzmE}vfpBVE@?tAU~Do@tEu@JAj@MNEnAWxEm@lAOHALCXEb@GpIkA`Fw@pF_Ad@IvDm@jAQbFy@~@OrF{@|@O`Eo@jBY|Eu@nASlEu@zAUzEq@pAS"
+                     },
+                     "start_location" : {
+                        "lat" : -33.890840,
+                        "lng" : 18.553590
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,8 km",
+                        "value" : 836
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : -33.909120,
+                        "lng" : 18.567320
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVoortrekker Rd/R102\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ld~mEiugpBWmCEg@SwBWkCCS[{CWsCAK[cDCYUaCw@cI[_D[iDCU"
+                     },
+                     "start_location" : {
+                        "lat" : -33.910630,
+                        "lng" : 18.558450
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1,6 km",
+                        "value" : 1646
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 170
+                     },
+                     "end_location" : {
+                        "lat" : -33.923390,
+                        "lng" : 18.567180
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHalt Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "~z}mEwlipBPCx@U\\I^I`@C`@Af@Eb@AVCH?@?^AV?l@?N@j@Jb@L^NFBXLf@TXLNF@?XN~Bj@vCt@jHhBtFhAFGPAX?xJg@@?~BSz@EbAEfCM@?|COb@CJAHAHAFAHCHAHCHCHAFCHCHEFCHCFEHCHEFEFCHEFEFGHEFEFGFEFGFGFEFGFGDGDEBCJGFG"
+                     },
+                     "start_location" : {
+                        "lat" : -33.909120,
+                        "lng" : 18.567320
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,3 km",
+                        "value" : 341
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : -33.92534000000001,
+                        "lng" : 18.564330
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eViking Wy\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "dt`nE{kipBDHFJR`@`@p@Xh@Vd@Zd@nApBpAvBpAnB"
+                     },
+                     "start_location" : {
+                        "lat" : -33.923390,
+                        "lng" : 18.567180
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3,6 km",
+                        "value" : 3559
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 255
+                     },
+                     "end_location" : {
+                        "lat" : -33.95686000000001,
+                        "lng" : 18.566360
+                     },
+                     "html_instructions" : "Take the 1st \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eValhalla Dr\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "j`anEazhpB`D_C~@i@tAcAl@a@\\Sn@_@l@W`@Q^Mn@Ql@OXGvAQpBEh@G|HBP?lA?xGDf@FxG@`FBpB@r@?nC?rB@n@@fM@hGFZ?|F?dA@rG?nB@D?P?fF?tC?B?L?fKH`F@TGtDEd@CR?R?jB?bJ@z@@zABpE@d@?V?"
+                     },
+                     "start_location" : {
+                        "lat" : -33.92534000000001,
+                        "lng" : 18.564330
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2,2 km",
+                        "value" : 2246
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 270
+                     },
+                     "end_location" : {
+                        "lat" : -33.971180,
+                        "lng" : 18.555240
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eDuinefontein Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "jegnEwfipBAVA`@OdE_@dICpAAd@AXC|@ExA@zAF|@TrATx@Tn@d@|@`@j@f@d@r@j@p@\\r@T`ATjCl@`Dl@ZFXFj@JXDPD\\FZFL@xBd@bDn@fHvA|AZfHtAv@NVFdFfA|FjAPBhLpB\\H"
+                     },
+                     "start_location" : {
+                        "lat" : -33.95686000000001,
+                        "lng" : 18.566360
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2,0 km",
+                        "value" : 2036
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 228
+                     },
+                     "end_location" : {
+                        "lat" : -33.96821000000001,
+                        "lng" : 18.533490
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKlipfontein Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "z~inEgagpBG`@Kv@a@nCy@lHK|A_@tE[jG_@jGQ|COpCA@QpCUtCMrCSpC?@Cl@e@nGGr@M~A{@xFe@rIALAXMnCIzBC|AO|CYjG_@zD"
+                     },
+                     "start_location" : {
+                        "lat" : -33.971180,
+                        "lng" : 18.555240
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "15 m",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : -33.968310,
+                        "lng" : 18.533380
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePetunia Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "hlinEiybpBRT"
+                     },
+                     "start_location" : {
+                        "lat" : -33.96821000000001,
+                        "lng" : 18.533490
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,2 km",
+                        "value" : 170
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : -33.969790,
+                        "lng" : 18.532870
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eHazel Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "|linEsxbpBVFTFd@Ln@NlAXp@Pb@J"
+                     },
+                     "start_location" : {
+                        "lat" : -33.968310,
+                        "lng" : 18.533380
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "89 m",
+                        "value" : 89
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : -33.970010,
+                        "lng" : 18.53380
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTemple St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "dvinEmubpBN{@Hs@Jq@DW"
+                     },
+                     "start_location" : {
+                        "lat" : -33.969790,
+                        "lng" : 18.532870
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : [
+                  {
+                     "location" : {
+                        "lat" : -33.93526470,
+                        "lng" : 18.56649590
+                     },
+                     "step_index" : 12,
+                     "step_interpolation" : 0.3248292995773551
+                  }
+               ]
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "pfvmEorcpBpBy@NALJh@`CdBtG@NEHiGjCx@|CzFeChCeAfAa@|C{Ar@]xDwAH@\\OpFaCvAaApEsClE_EdC{CbAmCr@sENmCReDJkCPyCJy@AYj@kCCGAGBMFGHCD?b@aANMJU\\s@V_@v@}@jBqAbAk@fDeBzA{@tDuBfGiDdIqE\\_@L[@WASGY@IYw@Uu@I_@?e@Be@r@@zE_@`BQnB[b@KhAQrB]lN{BvCm@~HcA|@MrPcCzOiCpd@iHhHkAlHeAiAyLgDs]w@iICUPCvA_@^I`@ChAGz@EbAA|@@nAXhBv@dAd@vG`BjHhBtFhAFGPArKg@`CS~BKjIa@f@Gf@Md@Ob@Qb@U`@Y^]\\]\\YbAhBp@nAjBvCbDfF`D_C~@i@bCeBlAs@nAi@nA_@fAWvAQpBEh@G|HB~A?xGDf@FzNDhLBvNBdHFfUBtK?zRJTGtDEx@C~OBlHD|@?Cx@o@jOKnEExA@zAF|@TrAj@hBd@|@`@j@zApAp@\\r@TlEbA|Dt@pB^`Ev@pYxFrPjDzLtB\\HG`@m@fEy@lHK|A_@tE[jGq@hLy@zLMrCSpCCn@m@bIM~A{@xFg@`JOhDMxEi@hL_@zDRTl@NtEhAb@JN{@TeBDW"
+         },
+         "summary" : "Valhalla Dr",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
